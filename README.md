@@ -7,7 +7,6 @@ The differnt Algorithms used are:
 2) BFS
 3) Multi BFS
 4) Dijkstras
-5) A*
 
 All the algorithms are written from scratch.
 All the Visualizations are made using Pygame Module using python
